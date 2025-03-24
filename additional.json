@@ -1,6 +1,12 @@
 {
   "0x6686bDfF3ad20AE45E811c2451DfeE8AA0f338C0_1_BERA": 400,
   "0x6686bDfF3ad20AE45E811c2451DfeE8AA0f338C0": {
-    "1": { "token":"BERA", "amount": 400 }
+    "1": { "token":"BERA", "amount": 500 }
+  },
+ "0xE6d15592F337f54E8BD47e56BbB22aF12F0D4083": {
+    "1": { "token":"BERA", "amount": 300 }
+  },
+ "0x94822b9BA715E9e3079ed12489Dc7A016694FC67": {
+    "1": { "token":"BERA", "amount": 100 }
   }
 }
